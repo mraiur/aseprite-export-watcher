@@ -3,6 +3,9 @@ Watch aseprite files for changes and export them in another folder. For example 
 
 Project with aseprite examples : [Aseprite examples](https://github.com/mraiur/aseprite-export-watcher-examples)
 
+
+![Example exports](./Export.png)
+
 # Setup
 
 ## Create python environment  
