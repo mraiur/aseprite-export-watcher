@@ -1,0 +1,24 @@
+{
+  "layer": {
+    "Layer/**": {
+      "layer": "tile"
+    }
+  },
+  "multi-layered-grouped": {
+    "MutliLayerGrouped/**" : {
+      "groups" : ["normal", "hover"]
+    }
+  },
+  "multi-layered": [
+    "MutliLayer/**"
+  ],
+  "split-layers": [
+    "SplitLayers/**"
+  ],
+  "standard": [
+    "Standard/**"
+  ],
+  "aseprite-project-path": "PATH_TO_ASEPRITE_PROJECT",
+  "project-path": "PATH_TO_EXPORT_FOLDER",
+  "aseprite-executable": "PATH_TO_ASEPRITE_BIN"
+}
